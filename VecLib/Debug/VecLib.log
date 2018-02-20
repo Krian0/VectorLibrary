@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Vector4.cpp
+c:\users\kadie\documents\visual studio 2017\projects\veclib\veclib\vector4.cpp(41): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Vector3.cpp
+c:\users\kadie\documents\visual studio 2017\projects\veclib\veclib\vector3.cpp(39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Vector2.cpp
+c:\users\kadie\documents\visual studio 2017\projects\veclib\veclib\vector2.cpp(37): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  VecLib.vcxproj -> C:\Users\kadie\Documents\Visual Studio 2017\Projects\VecLib\Debug\VecLib.lib
